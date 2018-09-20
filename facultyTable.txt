@@ -1,0 +1,19 @@
+
+ID: 2305
+Name: Wass
+Level: Lecturer
+Department: Stupdid
+Advisees: 
+
+ID: 4857
+Name: Wass
+Level: Lecturer
+Department: CPSC
+Advisees: 1561, 
+
+ID: 1568
+Name: James
+Level: Lecturer
+Department: CPSC
+Advisees: 4561, 1245, 2131, 
+

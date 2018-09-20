@@ -1,0 +1,54 @@
+Ben Wasserman
+2280906
+wasse114@mail.chapman.edu
+CPSC 350 Section 3
+Assignment #5: Student and Faculty Database
+
+List of source files:
+  1. main.cpp
+  2. Menu.cpp
+  3. Faculty.cpp
+  4. Student.cpp
+
+Description of code limitations or deviations from the specifications:
+  Note that the default values are included for simplicity and clarity when the databases are printed. It
+  helps show format for when people need to set up the studentTable and facultyTable as files. ALSO, note
+  that there are 3 extra menu options to be considered for some extra points!
+
+Partner:
+  NA
+
+References:
+  1. https://stackoverflow.com/questions/2981836/how-can-i-use-cout-myclass
+    a. For reference in teaching myself how to overload the << operator
+  2. http://www.learncpp.com/cpp-tutorial/9-14-overloading-the-assignment-operator/
+    a. For reference on overloading the assignment operator
+  3. ftp://ftp.gnu.org/old-gnu/Manuals/gdb/html_chapter/gdb_3.html
+    a. For reference on debugging with GDB within the terminal
+  4. https://stackoverflow.com/questions/16320962/exc-bad-access-code-2-in-recursive-method-with-arc
+    a. For reference on an error I was running into when printing the tree
+  5. https://stackoverflow.com/questions/27380859/recursive-calls-for-binary-tree-destructor
+    a. For reference on BST destructor
+  6. https://stackoverflow.com/questions/9459035/c-rand-gives-same-number-when-running-process
+    a. For reference on generating random numbers
+  7. https://stackoverflow.com/questions/13035674/how-to-read-line-by-line-or-a-whole-text-file-at-once
+    a. Object serialization reference
+  8. http://www.cplusplus.com/reference/string/string/substr/
+    a. For reference on substr from the string library
+  9. http://www.cplusplus.com/forum/general/13135/
+    a. For reference on converting from string to int
+  10. https://stackoverflow.com/questions/17619097/c-converting-string-to-double-using-atof
+    a. For reference on converting from string to double
+  11. https://stackoverflow.com/questions/20005784/saving-a-binary-tree-to-a-file
+    a. Object serialization reference
+  12. https://stackoverflow.com/questions/5590381/easiest-way-to-convert-int-to-string-in-c
+    a. Int to string conversion reference
+  13. https://stackoverflow.com/questions/5918451/why-getline-skips-first-line
+    a. For reference on reading in an entire line, and the error where it skips the first line because of the '\n' delimiter.
+
+Instructions for running:
+  NOTE: The only instruction for running is that the files studentTable and facultyTable are set up like the
+  default examples. When the program is run and either masterFaculty or masterStudent are printed, there will be
+  a default example included. This way of setting up the file is required for the files to be read correctly. The
+  files output at the end will be written to the files in this same way. Note that a comma and a space is used between
+  advisees for faculty members.

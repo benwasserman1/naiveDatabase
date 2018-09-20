@@ -1,0 +1,22 @@
+
+ID: 4561
+Name: Mary
+Level: Freshman
+Major: Biology
+GPA: 2.9
+Advisor's ID: 1568
+
+ID: 2131
+Name: Johnny
+Level: Junior
+Major: CPSC
+GPA: 2.4
+Advisor's ID: 1568
+
+ID: 1245
+Name: John
+Level: Sophomore
+Major: CPSC
+GPA: 3.4
+Advisor's ID: 1568
+
